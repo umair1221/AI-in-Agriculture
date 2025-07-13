@@ -37,7 +37,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 <p align="center">
-  <img src="./Images/Agriculture-Taxonomy.png" />
+  <img src="./Images/Agriculture-Taxonomy-Final.pdf" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 A taxonomy of AI applications in *agriculture* divided into three domains: *crops*, *livestock*, and *fisheries*. We highlight various ML tasks for each domain along with the domain-specific challenges. Furthermore, a detailed overview of common datasets in each domain is specified, along with different approaches used, ranging from conventional ML methods to foundation models.
@@ -66,11 +66,43 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 
 
+| Title | Publication Date | Link |
+|---------------------------------|----------------|---------------------------------|
+| AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock  | TBA | [Arxiv](TBA)                                                                         |
+| A survey on deep learning in UAV imagery for precision agriculture and wild flora monitoring: Datasets, models and challenges | 29 Oct 2024 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2772375524002302) |
+| Recent advances in Transformer technology for agriculture  | 11 Oct 2024  | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0952197624015707) |
+| A survey of data collaborative sensing methods for smart agriculture   | 28 Aug 2024  | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2542660524002956) |
+| A Survey of Deep Learning for Intelligent Feeding in Smart Fish Farming   | 03 May 2024   | [ACM](https://dl.acm.org/doi/10.1145/3653081.3653179)                                |
+| Deep learning for smart fish farming: applications, opportunities and challenges  | 03 May 2024   | [Arxiv](https://arxiv.org/pdf/2004.11848)                                            |
+| Machine Learning Applications in Agriculture: Current Trends, Challenges, and Future Perspectives  | 01 Dec 2023      | [MDPI](https://www.mdpi.com/2073-4395/13/12/2976)                                    |
+| A Survey of Computer Vision Technologies in Urban and Controlled-environment Agriculture   | 27 Nov 2023      | [ACM](https://dl.acm.org/doi/10.1145/3626186)                                        |
+| Applications of deep learning in fish habitat monitoring: A tutorial and survey   | 01 Oct 2023      | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417423023436) |
+| A review of deep learning techniques used in agriculture  | 18 July 2023     | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574954123002467) |
+| A systematic literature review on deep learning applications for precision cattle farming       | 12 Jul 2021      | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0168169921003306) |
+| A systematic literature review on the use of machine learning in precision livestock farming       | 20 Oct 2020      | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0168169920317099) |
+| A Systematic Literature Review on the Use of Deep Learning in Precision Livestock Detection and Localization  | 20 Oct 2020      | [IEEE](https://ieeexplore.ieee.org/document/9844698)                                 |
 
 
+<!-- 
 
 
+| Title | Publication Date | Link |
+|---------------------------------|----------------|---------------------------------|
+| AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock | TBA | [Arxiv](TBA) |
+| A review of deep learning techniques used in agriculture | 18 July 2023 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574954123002467) |
+| Machine Learning Applications in Agriculture: Current Trends, Challenges, and Future Perspectives | 01 Dec 2023 | [MDPI](https://www.mdpi.com/2073-4395/13/12/2976) |
+| A Survey of Computer Vision Technologies in Urban and Controlled-environment Agriculture | 27 Nov 2023 | [ACM](https://dl.acm.org/doi/10.1145/3626186) |
+| Recent advances in Transformer technology for agriculture | 11 Oct 2024 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0952197624015707) |
+| A survey on deep learning in UAV imagery for precision agriculture and wild flora monitoring: Datasets, models and challenges | 29 Oct 2024 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2772375524002302) |
+| A survey of data collaborative sensing methods for smart agriculture | 28 Aug 2024 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2542660524002956) |
+| Applications of deep learning in fish habitat monitoring: A tutorial and survey | 01 Oct 2023 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0957417423023436) |
+| A Survey of Deep Learning for Intelligent Feeding in Smart Fish Farming | 03 May 2024 | [ACM](https://dl.acm.org/doi/10.1145/3653081.3653179) |
+| Deep learning for smart fish farming: applications, opportunities and challenges | 03 May 2024 | [Arxiv](https://arxiv.org/pdf/2004.11848) |
+| A systematic literature review on the use of machine learning in precision livestock farming | 20 Oct 2020 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0168169920317099) |
+| A Systematic Literature Review on the Use of Deep Learning in Precision Livestock Detection and Localization | 20 Oct 2020 | [IEEE](https://ieeexplore.ieee.org/document/9844698) |
+| A systematic literature review on deep learning applications for precision cattle farming | 12 Jul 2021 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0168169921003306) |
 
+ -->
 
 
 
