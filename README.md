@@ -37,7 +37,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 <p align="center">
-  <img src="./Images/Agriculture-Taxonomy-Final.pdf" />
+  <img src="./Images/Agriculture-Taxonomy-Final.png" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 A taxonomy of AI applications in *agriculture* divided into three domains: *crops*, *livestock*, and *fisheries*. We highlight various ML tasks for each domain along with the domain-specific challenges. Furthermore, a detailed overview of common datasets in each domain is specified, along with different approaches used, ranging from conventional ML methods to foundation models.
