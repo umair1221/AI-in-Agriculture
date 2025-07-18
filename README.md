@@ -69,6 +69,7 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 | Title | Publication Date | Link |
 |---------------------------------|----------------|---------------------------------|
 | AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock  | TBA | [Arxiv](TBA)                                                                         |
+| Fish tracking, counting, and behaviour analysis in digital aquaculture: a comprehensive survey | 07 Jan 2025 | [WILEY](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.13001) |
 | A survey on deep learning in UAV imagery for precision agriculture and wild flora monitoring: Datasets, models and challenges | 29 Oct 2024 | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2772375524002302) |
 | Recent advances in Transformer technology for agriculture  | 11 Oct 2024  | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0952197624015707) |
 | A survey of data collaborative sensing methods for smart agriculture   | 28 Aug 2024  | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2542660524002956) |
@@ -242,10 +243,38 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 ## 🎣 AI for Fisheries
 
 ### Machine Learning Tasks
+
+#### Marine Life Classification
+
+* Machine learning applications for fisheries—at scales from genomics to ecosystems  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/23308249.2024.2423189)
+* Automatic counting methods in aquaculture: A review  [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/jwas.12745)
+* Deep learning for smart fish farming: applications, opportunities and challenges  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.12464)
+* Applications of data mining and machine learning framework in aquaculture and fisheries: A review  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375522000260)
+* A review of deep learning-based stereo vision techniques for phenotype feature and behavioral analysis of fish in aquaculture  [[Paper]](https://link.springer.com/article/10.1007/s10462-024-10960-7)
+* Advancing underwater vision: a survey of deep learning models for underwater object recognition and tracking  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10852283/)
+* Automatic labeling of fish species using deep learning across different classification strategies  [[Paper]](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1326452/full)
+* An optimized deep network-based fish tracking and classification from underwater images  [[Paper]](https://link.springer.com/article/10.1007/s11042-024-19417-z)
+* Recent advances of deep learning algorithms for aquacultural machine vision systems with emphasis on fish  [[Paper]](https://link.springer.com/article/10.1007/s10462-021-10102-3)
+
+#### Marine Specie Localization
+* Automatic detection of fish and tracking of movement for ecology  [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7656)
+* Rethinking general underwater object detection: Datasets, challenges, and solutions  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222013169)
+* Underwater object detection in the era of artificial intelligence: Current, challenge, and future  [[Paper]](https://arxiv.org/abs/2410.05577)
+* Fish tracking, counting, and behaviour analysis in digital aquaculture: a comprehensive survey  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.13001)
+* DeepSeaNet: a bio-detection network enabling species identification in the deep sea imagery  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10415449/)
+* Deep learning for visual recognition and detection of aquatic animals: A review  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.12726)
+* Enhanced deep learning models for automatic fish species identification in underwater imagery  [[Paper]](https://www.cell.com/heliyon/fulltext/S2405-8440(24)11248-0)
+* Advancing underwater vision: a survey of deep learning models for underwater object recognition and tracking  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10852283)
+* Fish face identification based on rotated object detection: dataset and exploration  [[Paper]](https://www.mdpi.com/2410-3888/7/5/219)
+* Fe-det: An effective traffic object detection framework for fish-eye cameras  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Luo_FE-Det_An_Effective_Traffic_Object_Detection_Framework_for_Fish-Eye_Cameras_CVPRW_2024_paper.html)
+* A novel automated approach for fish biomass estimation in turbid environments through deep learning, object detection, and regression  [[Paper]](https://www.sciencedirect.com/science/article/pii/S157495412400205X)
 *   [[Paper]]()
 *   [[Paper]]()
 
 *   [[Paper]]()
+
+
+#### 
 
 
 ### Challenges
