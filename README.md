@@ -127,7 +127,7 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 ### Challenges in Crop Farming
 
 <p align="center">
-  <img src="./Images/Crops/Crops-Challenges.png" />
+  <img src="./Images/Crops/Crops-Challenges.jpg" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 
