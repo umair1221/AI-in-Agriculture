@@ -87,20 +87,60 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 ### Machine Learning Tasks
 
-#### Image Classification
+#### Crop Health and Stage Classification
 * Leaf disease identification and classification using optimized deep learning [[Paper]](https://www.sciencedirect.com/science/article/pii/S266591742200277X)
 * Progress in the application of cnn-based image classification and recognition in whole crop growth cycles [[Paper]](https://www.mdpi.com/2072-4292/15/12/2988)
 * Flowerphenonet: Automated flower detection from multi-view image sequences using deep neural networks for temporal plant phenotyping analysis [[Paper]](https://www.mdpi.com/2072-4292/14/24/6252)
 * Recognition of sunflower growth period based on deep learning from uav remote sensing images [[Paper]](https://link.springer.com/article/10.1007/s11119-023-09996-6)
 * Defect detection in fruit and vegetables by using machine vision systems and image processing [[Paper]](https://link.springer.com/article/10.1007/s12393-022-09307-1)
 
-- **Nguyen et al. (2020)** “SVM-based Disease Detection.” [link](#)
 
-### Challenges
-- **Patel & Singh (2021)** “Data Scarcity in Plant Monitoring.” [link](#)  
-- **Garcia & Lee (2022)** “Variability of Field Conditions.” [link](#)
+#### Crop Type Detection
+* Review of weed detection methods based on computer vision  [[Paper]](https://www.mdpi.com/1424-8220/21/11/3647)
+* Early weed detection using image processing and machine learning techniques in an Australian chilli farm [[Paper]](https://www.mdpi.com/2077-0472/11/5/387)
+* Advanced drone-based weed detection using feature-enriched deep learning approach [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705124012899)
+* A relational approach to pesticide use: Farmers, herbicides, nutsedge, and the weedy path to pesticide use reduction objectives  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743016723001122)
+* Automated estimation of crop yield using artificial intelligence and remote sensing technologies  [[Paper]](https://www.mdpi.com/2306-5354/10/2/125)
+* Recognition of bloom/yield in crop images using deep learning models for smart agriculture: A review  [[Paper]](https://www.mdpi.com/2073-4395/11/4/646)
+* A smartphone-based application for scale pest detection using multiple-object detection methods  [[Paper]](https://www.mdpi.com/2079-9292/10/4/372)
+* Pesticide spraying robot for precision agriculture: A categorical literature review and future trends  [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22043)
+
+
+#### Precision Crop Segmentation
+* Deep learning-based weed–crop recognition for smart agricultural equipment: A review  [[Paper]](https://www.mdpi.com/2073-4395/14/2/363)
+* Towards the characterization of crop and weeds at leaf scale: A large comparison of shape, spatial and textural features  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375523000758)
+* Comparison of aerial and ground 3D point clouds for canopy size assessment in precision viticulture  [[Paper]](https://www.mdpi.com/2072-4292/14/5/1145)
+* Nutrient stress symptom detection in cucumber seedlings using segmented regression and a mask region-based convolutional neural network model  [[Paper]](https://www.mdpi.com/2077-0472/14/8/1390)
+* Using deep convolutional neural network for image-based diagnosis of nutrient deficiencies in plants grown in aquaponics  [[Paper]](https://www.mdpi.com/2227-9040/10/2/45)
+
+
+#### Crop Development Tracking
+* Plant disease detection by imaging sensors–parallels and specific demands for precision agriculture and plant phenotyping  [[Paper]](https://apsjournals.apsnet.org/doi/full/10.1094/PDIS-03-15-0340-FE)
+* Soil sensors and plant wearables for smart and precision agriculture  [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202007764)
+
+#### Crops Anomaly Detection
+* Machine learning for pest and disease detection in crops  [[Book]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003570219-6/machine-learning-pest-disease-detection-crops-durga-venkata-ravi-teja-amulothu-rahul-rodge-wajid-hasan-sheetanshu-gupta)
+* Anomaly detection on data streams for smart agriculture  [[Paper]](https://www.mdpi.com/2077-0472/11/11/1083)
+
+
+---
+### Challenges in Crop Farming
+
+<p align="center">
+  <img src="./Images/Crops/Crops-Challenges.png" />
+<!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
+</p>
 
 ### Key Crop Datasets
+
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+
+
+*   [[Paper]]()
+
+
 - **PlantVillage** (Hughes & Salathé, 2015) – Leaf disease images. [link](#)  
 - **CropNet** (Zhang et al., 2018) – Multi-spectral crop fields. [link](#)
 
