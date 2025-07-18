@@ -86,7 +86,14 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 ## 🌾 AI for Crops
 
 ### Machine Learning Tasks
-* Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search [[Paper]](https://arxiv.org/abs/2502.02508) ![](https://img.shields.io/badge/arXiv-2025.02-red)
+
+#### Image Classification
+* Leaf disease identification and classification using optimized deep learning [[Paper]](https://www.sciencedirect.com/science/article/pii/S266591742200277X)
+* Progress in the application of cnn-based image classification and recognition in whole crop growth cycles [[Paper]](https://www.mdpi.com/2072-4292/15/12/2988)
+* Flowerphenonet: Automated flower detection from multi-view image sequences using deep neural networks for temporal plant phenotyping analysis [[Paper]](https://www.mdpi.com/2072-4292/14/24/6252)
+* Recognition of sunflower growth period based on deep learning from uav remote sensing images [[Paper]](https://link.springer.com/article/10.1007/s11119-023-09996-6)
+* Defect detection in fruit and vegetables by using machine vision systems and image processing [[Paper]](https://link.springer.com/article/10.1007/s12393-022-09307-1)
+
 - **Nguyen et al. (2020)** “SVM-based Disease Detection.” [link](#)
 
 ### Challenges
