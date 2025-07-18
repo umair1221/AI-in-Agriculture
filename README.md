@@ -135,7 +135,6 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 | Name | Source | Link |
 |---------------------------------|----------------|---------------------------------|
-
 | **PlantVillage** | Using deep learning for image-based plant disease detection | [Paper](https://doi.org/10.3389/fpls.2016.01419) |  
 | **IP102** | Ip102: A large-scale benchmark dataset for insect pest recognition | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.html)
 | **DeepWeeds** | DeepWeeds: A multiclass weed species image dataset for deep learning | [Paper](https://www.nature.com/articles/s41598-018-38343-3)
