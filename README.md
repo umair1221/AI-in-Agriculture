@@ -160,34 +160,93 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 | **DeepSeedling** | Deep Seedling Project Dataset | [link](https://figshare.com/s/616956f8633c17ceae9b)
 | **GrassClover** | GrassClover dataset | [link](https://vision.eng.au.dk/grass-clover-dataset/)
 
-
-- **CropNet**  [link](#)
-*   [[Paper]]()
-
-
 ---
 
 ## ⚙️ ML Techniques in Crops
 
 ### Conventional Approaches
-- **Brown et al. (2018)** “K-NN & SVM for Leaf Classification.” [link](#)
+* Support vector machines for crop classification using hyperspectral data [[Paper]](https://link.springer.com/chapter/10.1007/978-3-540-44871-6_16)
+* Semi-supervised classification method for hyperspectral remote sensing images  [[Paper]](https://ieeexplore.ieee.org/document/1294247)
+* CART-based feature selection of hyperspectral images for crop cover classification  [[Paper]](https://ieeexplore.ieee.org/abstract/document/1247313)
+* An enhanced approach for crop yield prediction system using linear support vector machine model  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9767994)
+* Precision sugarcane monitoring using SVM classifier  [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050917326984)
+* Crop Recommendation System Using K-Nearest Neighbors Algorithm  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-33-4501-0_54)
+* Precision agriculture crop recommendation system using knn algorithm  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10263667)
+* Detection and classification of groundnut leaf diseases using KNN classifier  [[Paper]](https://ieeexplore.ieee.org/abstract/document/8878733)
+* Data-efficient crop pest recognition based on KNN distance entropy  [[Paper]](https://www.sciencedirect.com/science/article/pii/S221053792300015X)
+* Cotton crop disease detection using decision tree classifier  [[Paper]](https://ieeexplore.ieee.org/abstract/document/8537336)
+* The use of fuzzy decision trees for coffee rust warning in Brazilian crops  [[Paper]](https://ieeexplore.ieee.org/abstract/document/6121847)
+* Validation and refinement of cropland data layer using a spatial-temporal decision tree algorithm  [[Paper]](https://www.nature.com/articles/s41597-022-01169-w)
+* Application of the decision tree method for predicting the yield of spring wheat  [[Paper]](https://iopscience.iop.org/article/10.1088/1755-1315/839/3/032042/meta)
+* Implementation of K-means algorithm for clustering corn planting feasibility area in south lampung regency  [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1751/1/012038/meta)
+* Detection of healthy and defected diseased leaf of rice crop using K-means clustering technique  [[Paper]](https://www.researchgate.net/profile/Prabira-Sethy/publication/312494913_Detection_of_Healthy_and_Defected_Diseased_Leaf_of_Rice_Crop_using_K-Means_Clustering_Technique/links/587f198b08aed3826af46ed6/Detection-of-Healthy-and-Defected-Diseased-Leaf-of-Rice-Crop-using-K-Means-Clustering-Technique.pdf)
+* Weed and crop detection by combining crop row detection and k-means clustering in weed infested agricultural fields  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9708815)
+* Research on Crop Planting Strategies Based on K-means Cluster Analysis and Linear Programming  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10898646)
+* Agricultural Remote Sensing with Case-Based Reasoning  [[Paper]](https://www.preprints.org/frontend/manuscript/0356b390c0af7bde55c02a30f6758997/download_pub)
+* Development of a Fuzzy Case-Based Reasoning Decision Support System for Water Management in Smart Agriculture  [[Paper]](http://msesj.com:8092/index.php/mses/article/view/171)
+* Applying case-based reasoning and a learning-based adaptation strategy to irrigation scheduling in grape farming  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169920318664)
+* Application of Case Based Reasoning Method to Diagnose Rice Plant Diseases  [[Paper]](https://ioinformatic.org/index.php/JAIEA/article/view/372)
+
 
 ### CNNs
-- **Chen & Li (2019)** “Deep CNNs for Leaf Segmentation.” [link](#)
+* VGG-ICNN: A Lightweight CNN model for crop disease identification  [[Paper]](https://link.springer.com/article/10.1007/s11042-022-13144-z)
+* Going deeper with convolutions  [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)
+* Efficientnet: Rethinking model scaling for convolutional neural networks  [[Paper]](https://proceedings.mlr.press/v97/tan19a.html?ref=ji)
+* A new attention-based CNN approach for crop mapping using time series Sentinel-2 images  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169921001083)
+* Advanced Deep Learning Model for Multi-Disease Prediction in Potato Crops: A Precision Agriculture Approach  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10625281)
+* T-CNN: Trilinear convolutional neural networks model for visual detection of plant diseases  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169921004853)
+* CCDF: Automatic system for segmentation and recognition of fruit crops diseases based on correlation coefficient and deep CNN features  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169918303120)
+* Very deep convolutional networks for large-scale image recognition  [[Paper]](https://arxiv.org/abs/1409.1556)
+* Imagenet classification with deep convolutional neural networks  [[Paper]](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
+* SkipResNet: Crop and Weed Recognition Based on the Improved ResNet  [[Paper]](https://www.mdpi.com/2073-445X/13/10/1585)
+* Deep residual learning for image recognition  [[Paper]](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
+* CustomBottleneck-VGGNet: Advanced tomato leaf disease identification for sustainable agriculture  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169925001723)
+* Fully convolutional network for rice seedling and weed image segmentation at the seedling stage in paddy fields  [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215676)
+* Real-time recognition system of soybean seed full-surface defects based on deep learning  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169921002477)
+* Insect-YOLO: A new method of crop insect detection  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169925001917)
+
 
 ### ViTs
-- **Ahmed et al. (2021)** “Vision Transformers in Crop Analysis.” [link](#)
+* ViT-SmartAgri: Vision Transformer and Smartphone-Based Plant Disease Detection for Smart Agriculture  [[Paper]](https://www.mdpi.com/2073-4395/14/2/327)
+* An image is worth 16x16 words: Transformers for image recognition at scale  [[Paper]](https://arxiv.org/pdf/2010.11929/1000)
+* DVTXAI: a novel deep vision transformer with an explainable AI-based framework and its application in agriculture  [[Paper]](https://link.springer.com/article/10.1007/s11227-024-06494-y)
+* HyperSFormer: A transformer-based end-to-end hyperspectral image classification method for crop classification  [[Paper]](https://www.mdpi.com/2072-4292/15/14/3491)
+* Swin transformer: Hierarchical vision transformer using shifted windows  [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper)
+* Mmst-vit: Climate change-aware crop yield prediction via multi-modal spatial-temporal vision transformer  [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Lin_MMST-ViT_Climate_Change-aware_Crop_Yield_Prediction_via_Multi-Modal_Spatial-Temporal_Vision_ICCV_2023_paper.html)
+* Vision Transformer for Plant Disease Detection: PlantViT  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-11346-8_43)
+* A novel twin vision transformer framework for crop disease classification with deformable attention  [[Paper]](https://www.sciencedirect.com/science/article/pii/S174680942500062X)
+* Crop disease identification by fusing multiscale convolution and vision transformer  [[Paper]](https://www.mdpi.com/1424-8220/23/13/6015)
+* A Vision Transformer network SeedViT for classification of maize seeds  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfpe.13998)
+* PMVT: a lightweight vision transformer for plant disease identification on mobile devices  [[Paper]](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1256773/full)
+* Effective plant disease diagnosis using Vision Transformer trained with leafy-generative adversarial network-generated images  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424012533)
+* Visual intelligence in precision agriculture: Exploring plant disease detection via efficient vision transformers  [[Paper]](https://www.mdpi.com/1424-8220/23/15/6949)
+
 
 ### Foundation Models
-- **Gupta & Singh (2022)** “CLIP-based Crop Recognition.” [link](#)
+* Visual large language model for wheat disease diagnosis in the wild  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924009785)
+* Potato disease detection and prevention using multimodal AI and large language model  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924012158)
+* AgriCLIP: Adapting CLIP for agriculture and livestock via domain-specialized cross-model alignment  [[Paper]](https://arxiv.org/abs/2410.01407)
+* Agrogpt: Efficient agricultural vision-language model with expert tuning  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10944186)
+* Diffusionsat: A generative foundation model for satellite imagery  [[Paper]](https://arxiv.org/abs/2312.03606)
+* Vision foundation model for agricultural applications with efficient layer aggregation network  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424018396)
+* Leaf only SAM: A segment anything pipeline for zero-shot automated leaf segmentation  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375524001205)
+* Bioclip: A vision foundation model for the tree of life  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Stevens_BioCLIP_A_Vision_Foundation_Model_for_the_Tree_of_Life_CVPR_2024_paper.html)
+* Cucumber disease recognition with small samples using image-text-label-based multi-modal language model  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923003812)
+* PlantCaFo: An efficient few-shot plant disease recognition method based on foundation models  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2643651525000305)
+* Learning transferable visual models from natural language supervision  [[Paper]](https://proceedings.mlr.press/v139/radford21a)
+* Multi-label plant species classification with self-supervised vision transformers  [[Paper]](https://arxiv.org/abs/2407.06298)
+* Visual information guided multi-modal model for plant disease anomaly detection  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2772375524001734)
 
 ---
 
 ## 🎣 AI for Fisheries
 
 ### Machine Learning Tasks
-- **Lee et al. (2020)** “CNNs for Fish Species ID.” [link](#)  
-- **Silva & Gomez (2021)** “Acoustic Fish Monitoring.” [link](#)
+*   [[Paper]]()
+*   [[Paper]]()
+
+*   [[Paper]]()
+
 
 ### Challenges
 - **Chen & Zhao (2021)** “Underwater Image Quality.” [link](#)
