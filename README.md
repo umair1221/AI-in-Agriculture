@@ -133,16 +133,37 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 ### Key Crop Datasets
 
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
 
 
+- **PlantVillage** – Using deep learning for image-based plant disease detection [Paper](https://doi.org/10.3389/fpls.2016.01419)  
+- **IP102** Ip102: A large-scale benchmark dataset for insect pest recognition [Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Wu_IP102_A_Large-Scale_Benchmark_Dataset_for_Insect_Pest_Recognition_CVPR_2019_paper.html)
+- **DeepWeeds** DeepWeeds: A multiclass weed species image dataset for deep learning [Paper](https://www.nature.com/articles/s41598-018-38343-3)
+- **CVPPP Leaf Counting** Finely-grained annotated datasets for image-based plant phenotyping [Paper](https://www.sciencedirect.com/science/article/pii/S0167865515003645)
+- **LandCover.ai** LandCover. ai: Dataset for automatic mapping of buildings, woodlands, water and roads from aerial imagery [Paper](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Boguszewski_LandCover.ai_Dataset_for_Automatic_Mapping_of_Buildings_Woodlands_Water_and_CVPRW_2021_paper.html)
+- **Pl@ntNet** Pl@ntNet-300K: a plant image dataset with high label ambiguity and a long-tailed distribution [Paper](https://inria.hal.science/hal-03474556/)
+- **PlantSeg** Plantseg: A large-scale in-the-wild dataset for plant disease segmentation [Paper](https://arxiv.org/abs/2409.04038)
+- **ALive** AgriCLIP: Adapting CLIP for agriculture and livestock via domain-specialized cross-model alignment [Paper](https://arxiv.org/abs/2410.01407)
+- **AgroInstruct** Agrogpt: Efficient agricultural vision-language model with expert tuning [Paper](https://ieeexplore.ieee.org/abstract/document/10944186)
+- **CWFI** A crop/weed field image dataset for the evaluation of computer vision based precision agriculture tasks [Paper](https://link.springer.com/chapter/10.1007/978-3-319-16220-1_8)
+- **Carrot Weed** Weed detection dataset with RGB images taken under variable light conditions [GitHub](https://github.com/lameski/rgbweeddetection)
+- **Plant Seedlings** Plant Seedlings Dataset [link](https://vision.eng.au.dk/plant-seedlings-dataset/)
+- **Grass-Broadleaf** Weed Detection in Soybean Crops Using ConvNets [Mendeley](https://data.mendeley.com/datasets/3fmjm7ncc6/2)
+- **Sugar Beets 2016** Sugar Beets Dataset [link](https://www.ipb.uni-bonn.de/datasets_IJRR2017/annotations/)
+- **WeedNet** Multi-Spectral Dataset [GitHub](https://github.com/inkyusa/weedNet)
+- **Leaf Counting Dataset** Dataset for Leaf Counting [link](https://vision.eng.au.dk/leaf-counting-dataset/)
+- **OPPD** Open Plant Phenotyping Database [link](https://gitlab.au.dk/AUENG-Vision/OPPD/-/tree/master/)
+- **Deep Fruits** Fruits Dataset [link](https://drive.google.com/drive/folders/1CmsZb1caggLRN7ANfika8WuPiywo4mBb)
+- **MangoNet** The MangoNet Semantic Dataset [GitHub](https://github.com/avadesh02/MangoNet-Semantic-Dataset)
+- **MinneApple** MinneApple: A Benchmark Dataset for Apple Detection and Segmentation [link](https://doi.org/10.13020/8ecp-3r13)
+- **PlantDoc** PlantDoc: A Dataset for Visual Plant Disease Detection [GitHub](https://github.com/pratikkayal/PlantDoc-Dataset)
+- **Sugarcane Billets** Dataset of sugarcane images [GitHub](https://github.com/The77Lab/SugarcaneBilletsDataset)
+- **DeepSeedling** Deep Seedling Project Dataset [link](https://figshare.com/s/616956f8633c17ceae9b)
+- **GrassClover** GrassClover dataset [link](https://vision.eng.au.dk/grass-clover-dataset/)
+
+
+- **CropNet**  [link](#)
 *   [[Paper]]()
 
-
-- **PlantVillage** (Hughes & Salathé, 2015) – Leaf disease images. [link](#)  
-- **CropNet** (Zhang et al., 2018) – Multi-spectral crop fields. [link](#)
 
 ---
 
