@@ -14,7 +14,7 @@
 This repository complements our survey paper, **“AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock”**, which is a comprehensive review of machine- and deep-learning techniques for crops, livestock and fisheries.
 
 It provides readers with:
-- a curated index of **170 + referenced papers** (CSV & BibTeX);
+- a curated index of **180 + referenced papers** (CSV & BibTeX);
 - interactive notebooks reproducing **all tables and figures** from the manuscript;
 - high-resolution artwork (taxonomy diagrams, dataset examples, etc.);
 - lightweight helper scripts for updating the bibliography and statistics;
@@ -468,55 +468,162 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 ---
 ### Key Livestock Datasets
-- **FarmTrack** (Zhou et al., 2020) – Sensor & video recordings. [link](#)
+
+| Name | Source | Link |
+|---------------------------------|----------------|---------------------------------|
+| **GalliformeSpectra** | GalliformeSpectra: a hen breed dataset | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340923010260) |  
+| **CID** | Cid: Cow images dataset for regression and classification | [Paper](https://dl.acm.org/doi/abs/10.1145/3542954.3543018) |  
+| **CattleEyeView** | Cattleeyeview: A multi-task top-down view cattle dataset for smarter precision livestock farming | [Paper](https://ieeexplore.ieee.org/abstract/document/10402676/) |  
+| **MMCows** | MmCows: A Multimodal Dataset for Dairy Cattle Monitoring | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6d8f3f71b22f9d2e9320d7bdb73acea7-Abstract-Datasets_and_Benchmarks_Track.html) |  
+| **Cow Milk Acquisition** | Deep learning image recognition of cow behavior and an open data set acquired near an automatic milking robot | [Paper](https://journal.fi/afs/article/view/111665) |  
+| **Cows2021** | Towards self-supervision for video identification of individual holstein-friesian cattle: The cows2021 dataset | [Paper](https://arxiv.org/abs/2105.01938) |  
+| **FriesianCattle2015** | Automatic individual holstein friesian cattle identification via selective local coat pattern matching in RGB-D imagery | [Paper](https://ieeexplore.ieee.org/abstract/document/7532404/) |  
+| **FriesianCattle2017** | Visual localisation and individual identification of holstein friesian cattle via deep learning | [Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w41/html/Andrew_Visual_Localisation_and_ICCV_2017_paper.html) |  
+| **AerialCattle2017** | Visual localisation and individual identification of holstein friesian cattle via deep learning | [Paper](https://openaccess.thecvf.com/content_ICCV_2017_workshops/w41/html/Andrew_Visual_Localisation_and_ICCV_2017_paper.html) |  
+| **Aerial Livestock** | Livestock detection in aerial images using a fully convolutional network | [Paper](https://ieeexplore.ieee.org/document/10897435) |  
+| **HolsteinCattle** | Recognition of Holstein Cattle with Thermal and RGB images | [Link](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/7M108F) |  
+| **CowBehavior** | Data set of labeled scenes in a barn in front of automatic milking system | [Zenodo](https://zenodo.org/records/3981400) |  
+| **OpenCows2020** | OpenCows2020 Dataset | [Link](https://doi.org/10.5523/bris.10m32xl88x2b61zlkkgz3fml17) |  
+| **CowDatabase2** | Black Agnus Breed Cows Dataset | [GitHub](https://github.com/ruchaya/CowDatabase2) |  
+| **NWAFU Cattle Dataset** | CMBN Datasets from NWAFU-Cattle | [GitHub](https://github.com/fqcwd/CMBN/tree/main) |  
+| **Chicken Gender** | Estimation of the Gender Ratio of Chickens Based on Computer Vision: Dataset and Exploration | [Paper](http://dx.doi.org/10.3390/e22070719) |  
+| **Poultry Disease** | Machine Learning Dataset for Poultry Diseases Diagnostics - PCR annotated | [Zenodo](https://zenodo.org/records/5801834) |  
+| **Broiler Dataset** | YOLO-Based Model for Automatic Detection of Broiler Pathological Phenomena through Visual and Thermal Images in Intensive Poultry Houses | [Paper](https://www.mdpi.com/2077-0472/13/8/1527) |  
+| **Camel Detection** | Camel Detection Dataset | [Roboflow](https://universe.roboflow.com/khalid-moftah-32hjl/camel-detiction) |  
+| **Camel Recognition** | Camel Detection Dataset | [Paper](https://universe.roboflow.com/rovrest0gmailcom/camel-detection) |  
+| **Horses** | Horses Identification Through Deep Learning Algorithms | [Paper](https://ieeexplore.ieee.org/document/10624972) |  
+| **Sheep Activity** | Video Dataset of Sheep Activity | [Mendeley](https://data.mendeley.com/datasets/w65pvb84dg/1) |  
+| **Buffalo Pak** | Buffalo-Pak: Buffalo Breed Dataset from Pakistan for Visual Features Based Classification | [Mendeley](https://data.mendeley.com/datasets/vdgnxsm692/2) |  
+| **LEsheepWeight** | Enhanced LiteHRNet based sheep weight estimation using RGB-D images | [Paper](https://linkinghub.elsevier.com/retrieve/pii/S0168169923000558) |  
+
+
 
 ---
 
 ## ⚙️ ML Techniques in Livestock
 
 ### Conventional Approaches
-- **Johnson & White (2019)** “Random Forests for Animal Behavior.” [link](#)
+* Classification of animals using MobileNet with SVM classifier [[Paper]](https://link.springer.com/chapter/10.1007/978-981-19-3015-7_25)
+* Animal disease diagnoses expert system based on SVM [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-12220-0_78)
+* Cow identification in free-stall barns based on an improved Mask R-CNN and an SVM [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922000552)
+* Mastitis detection in dairy cows: the application of support vector machines [[Paper]](https://www.cambridge.org/core/journals/journal-of-agricultural-science/article/abs/mastitis-detection-in-dairy-cows-the-application-of-support-vector-machines/72485EDE5A2793F5E3A72F378D53386C)
+* Cattle classifications system using fuzzy k-nearest neighbor classifier [[Paper]](https://ieeexplore.ieee.org/abstract/document/7334010/)
+* Real-time behavioral recognition in dairy cows based on geomagnetism and acceleration information [[Paper]](https://ieeexplore.ieee.org/abstract/document/9493161/)
+* A Fuzzy K-Nearest Neighbour-based Model for detecting Lameness in Cattle [[Paper]](https://testing.engineering.fuoye.edu.ng/index.php/engineer/article/view/1048)
+* Classification of cow behavior using 3-DOF accelerometer and decision tree algorithm [[Paper]](https://ieeexplore.ieee.org/abstract/document/7782100/)
+* A comparison of logistic regression and classification tree to assess brucellosis associated risk factors in dairy cattle [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167587722000976)
+* The potential of decision trees as a tool to simplify broiler chicken welfare assessments [[Paper]](https://www.nature.com/articles/s41598-024-74260-4)
+* Efficient herd–outlier detection in livestock monitoring system based on density–based spatial clustering [[Paper]](https://ieeexplore.ieee.org/abstract/document/8895959/)
+* Use of unmanned aerial vehicles for livestock monitoring based on streaming K-means clustering [[Paper]](https://www.sciencedirect.com/science/article/pii/S2405896319324796)
+* Study on individual behavior of dairy cows based on activity data and clustering [[Paper]](https://dl.acm.org/doi/abs/10.1145/3438872.3439082)
+* Using Density and Fuzzy Clustering for Data Cleaning and Segmental Description of Livestock Data [[Paper]](https://link.springer.com/article/10.1007/s13253-024-00622-0)
+* Assessing traditional and machine learning methods to smooth and impute device-based body condition score throughout the lactation in dairy cows [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924009906)
 
 ### CNNs
-- **Li & Kumar (2021)** “CNNs for Pose Estimation in Livestock.” [link](#)
+* Cattle Disease Detection using VGG16 CNN Architecture [[Paper]](https://ieeexplore.ieee.org/abstract/document/10724717/)
+* Animal Classification Using CNN with VGG-16 Architecture [[Paper]](https://www.researchgate.net/publication/360121770_Animal_Classification_Using_CNN_with_VGG-16_Architecture)
+* A recognition method of cattle and sheep based on convolutional neural network [[Paper]](https://ieeexplore.ieee.org/abstract/document/9725115/)
+* Improved ResNet-50 deep learning algorithm for identifying chicken gender [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923000108)
+* Facial Recognition of Cattle Based on SK‐ResNet [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/5773721)
+* Lumpy Skin Disease Detection in Cows Using ResNet-50 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10389970/)
+* Multi-scale keypoints detection and motion features extraction in dairy cows using ResNet101-ASPP network [[Paper]](https://www.sciencedirect.com/science/article/pii/S2095311924002661)
+* SIFT-CNN pipeline in livestock management: A drone image stitching algorithm [[Paper]](https://www.mdpi.com/2504-446X/7/1/17)
+* Cattle segmentation and contour extraction based on Mask R-CNN for precision livestock farming [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169919304077)
+* Utilizing EfficientNet for sheep breed identification in low-resolution images [[Paper]](https://www.sciencedirect.com/science/article/pii/S277294192400022X)
+* Automatic body condition scoring for dairy cows based on efficient net and convex hull features of point clouds [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922008961)
+* Using an EfficientNet-LSTM for the recognition of single Cow's motion behaviours in a complicated environment [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169920315386)
+* YOLO-BYTE: An efficient multi-object tracking algorithm for automatic monitoring of dairy cows [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923002454)
+* Innovation in livestock surveillance: Applying the YOLO algorithm to UAV imagery and videography [[Paper]](https://ieeexplore.ieee.org/abstract/document/10373473/)
+* E-YOLO: Recognition of estrus cow based on improved YOLOv8n model [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423027148)
+* Automatic sheep counting by multi-object tracking [[Paper]](https://ieeexplore.ieee.org/abstract/document/9301868/)
+* Automatic segmentation of cattle rib-eye area in ultrasound images using the UNet++ deep neural network [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169922001351)
+* Wizard: Unsupervised goats tracking algorithm [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923002193)
+* On-barn cattle facial recognition using deep transfer learning and data augmentation [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924006975)
+
 
 ### ViTs
-- **Patel et al. (2022)** “Vision Transformers for Animal Monitoring.” [link](#)
+* UGTransformer: A sheep extraction model from remote sensing images for animal husbandry management [[Paper]](https://ieeexplore.ieee.org/abstract/document/10409252/)
+* DETRs Beat YOLOs on Real-time Object Detection [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.html)
+* RTDETR-Refa: a real-time detection method for multi-breed classification of cattle [[Paper]](https://link.springer.com/article/10.1007/s11554-024-01613-7)
+* An efficient transformer network for detecting multi-scale chicken in complex free-range farming environments via improved RT-DETR [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169924005519)
+* MHAFF: Multihead Attention Feature Fusion of CNN and Transformer for Cattle Identification [[Paper]](https://ieeexplore.ieee.org/abstract/document/11037301)
+* Livestock monitoring with transformer [[Paper]](https://arxiv.org/abs/2111.00801)
+* Combining convolutional and vision transformer structures for sheep face recognition [[Paper]](https://www.sciencedirect.com/science/article/pii/S016816992300039X)
+
+
+
 
 ### Foundation Models
-- **Sahni & Gupta (2023)** “Adapting Foundation Models to Livestock Data.” [link](#)
+* Sam for poultry science [[Paper]](https://arxiv.org/abs/2305.10254)
+* AnimalFormer: Multimodal Vision Framework for Behavior-based Precision Livestock Farming [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/Vision4Ag/html/Qazi_AnimalFormer_Multimodal_Vision_Framework_for_Behavior-based_Precision_Livestock_Farming_CVPRW_2024_paper.html)
+* Wildclip: Scene and animal attribute retrieval from camera trap data with domain-adapted vision-language models [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02026-6)
+* Efficient segment-anything model for automatic mask region extraction in livestock monitoring [[Paper]](https://ieeexplore.ieee.org/abstract/document/10375624/)
+* From Vision to Vocabulary: A Multimodal Approach to Detect and Track Black Cattle Behaviors [[Paper]](https://link.springer.com/chapter/10.1007/978-981-96-1531-5_17)
+
 
 ---
 
 ## 🌐 Cross-cutting Challenges & Opportunities
 
-- **Data Variability & Standardization**  
-  - Smith & Chen (2022) “Standardizing Agri-AI Datasets.” [link](#)
+Across crops, fisheries and livestock domains, there are common hurdles and emerging openings:
 
-- **Model Transferability & Generalization**  
-  - Nguyen & Lee (2021) “Domain Adaptation in Farming Models.” [link](#)
+### 1. Data Availability & Quality  
+- **Challenge:** Sparse, imbalanced or noisy datasets; lack of standardized annotation protocols.  
+- **Opportunity:**  
+  - Establish open benchmarks and shared annotation guidelines  
+  - Leverage synthetic data generation (GANs, simulation) to augment scarce classes  
 
-- **Resource Constraints & Edge Deployment**  
-  - Patel et al. (2023) “TinyML for Smart Farms.” [link](#)
+### 2. Model Generalization & Transferability  
+- **Challenge:** Models trained on one crop/region often fail to adapt elsewhere.  
+- **Opportunity:**  
+  - Domain‑adaptation techniques (e.g. adversarial learning)  
+  - Few‑shot and meta‑learning to rapidly tune to new species or environments  
 
-- **Explainability & Trustworthiness**  
-  - Doe & Roe (2020) “Explainable AI in Agriculture.” [link](#)
+### 3. Multi‑modal Integration  
+- **Challenge:** Disparate data streams (RGB imagery, hyperspectral, IoT sensors, weather).  
+- **Opportunity:**  
+  - Fusion frameworks that co‑learn from images, time‑series and text  
+  - Pretrained foundation models (CLIP, DINO) as backbones  
+
+### 4. Scalability & Edge Deployment  
+- **Challenge:** Resource‑intensive models hinder real‑time, on‑device inference.  
+- **Opportunity:**  
+  - Model compression (pruning, quantization)  
+  - TinyML for low‑power, in‑field devices  
+
+### 5. Explainability & Trust  
+- **Challenge:** “Black‑box” predictions limit farmer adoption and regulatory approval.  
+- **Opportunity:**  
+  - Interpretable architectures (attention maps, prototype networks)  
+  - Human‑in‑the‑loop tools for interactive validation  
+
+### 6. Socio‑economic & Ethical Considerations  
+- **Challenge:** Equity gaps in technology access, data privacy, environmental impact.  
+- **Opportunity:**  
+  - Participatory sensing with local communities  
+  - Policies and open‑data licenses that balance innovation and privacy  
+
+### 7. Climate Resilience & Sustainability  
+- **Challenge:** Rapidly changing environmental conditions undermine static models.  
+- **Opportunity:**  
+  - Continual learning systems that adapt to weather anomalies  
+  - Digital‑twin simulations for “what‑if” scenario planning  
+
+
 
 ---
 
 ## 🚀 Future Research Directions
 
 1. **Unifying Multi-modal Foundation Models**  
-   - Zhang & Wu (2023) “Multi-modal AI for Farm Robotics.” [link](#)
-
 2. **Continual and Federated Adaptation**  
-   - Fernandez et al. (2022) “Federated Learning in Agro-Sensors.” [link](#)
-
 3. **Edge-Efficient AI for Real-time Decision Support**  
-   - Khan et al. (2023) “Real-time Crop Monitoring on Microcontrollers.” [link](#)
-
 4. **Agentic AI for Autonomous Farming**  
-   - Lopez & Singh (2024) “Autonomous Robot Agents in Agriculture.” [link](#)
+
+<p align="center">
+  <img src="./Images/Future Directions.jpg" />
+<!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
+</p>
 
 ---
 
