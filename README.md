@@ -30,7 +30,7 @@ The goal is to make it effortless for researchers, practitioners and students to
 | **Domains covered** | Crops, Livestock, Fisheries |
 | **Techniques reviewed** | Conventional ML, CNNs, Vision Transformers, Vision-Language & Foundation Models |
 | **Key themes** | Datasets & Benchmarks · Task Taxonomy · Implementation Challenges · Future Directions |
-| **Total Papers Covered** | 170+ peer-reviewed papers and preprints |
+| **Total Papers Covered** | 180+ peer-reviewed papers and preprints |
 | **Journal / venue** | *Pre-print*, under submission |
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
@@ -333,36 +333,47 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 | **DZPeru - Multiple Fish Datasets** | Fish Datasets: Segmentations & labelling | [Paper](https://github.com/DZPeru/fish-datasets) |  
 | **Fish Image Bank** | Fish Image Bank (FIB) Dataset | [Paper](https://haselab.fuis.u-fukui.ac.jp/research/fish/fib.html) |  
 
-
-
-
-
----
-
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-
 ---
 
 ## ⚙️ ML Techniques in Fisheries
 
 ### Conventional Approaches
-- **Wang et al. (2019)** “HOG+SVM for Fish Detection.” [link](#)
+* Advancements in underwater imaging through machine learning: Techniques, challenges, and applications  [[Paper]](https://link.springer.com/article/10.1007/s11042-024-20091-4)
+* Enhancing microalgae classification accuracy in marine ecosystems through convolutional neural networks and support vector machines  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0025326X24005939)
+* A review on features and methods of potential fishing zone  [[Paper]](https://d1wqtxts1xzle7.cloudfront.net/115587782/13_34422_IJECE_DB_D-libre.pdf?1717386234=&response-content-disposition=inline%3B+filename%3DA_review_on_features_and_methods_of_pote.pdf&Expires=1752960055&Signature=GtrHgO~34W4DPQT2s1IhyWZ6l56XbveeaDCM39gQzMuVFacezL~mjoDWbSFjEnb2CO-Ib~iLCXowAEppOiycRrnwbBM8JkL8bQ-q6z1BTizOEmap2QtrVM0uP2B4oXqL6TbOxlfkARgqO7zA0N13R0DpTbZDDQhQPpXxjiCxlly7pDdPIbi3pyelMy~h6N9metXqU6XD5jDjtr7B~xsBBfFj9ovzukeuEK2edTGg0TpD257JHMkr-nxOEHl59TE5HhHu7QmuG5a3ox6C4eRGeoYj1OSqwVcznyBvEvi0JLAbAItuIahuHhDTj4M-Mb5wzCU2utceN5jbg40QrtpxBA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+* Fish classification using support vector machine  [[Paper]](https://d1wqtxts1xzle7.cloudfront.net/67963805/vol_8_no_2_june_2015ppi_198-libre.pdf?1625904687=&response-content-disposition=inline%3B+filename%3DAn_Investigation_into_the_Conceptual_Con.pdf&Expires=1752960108&Signature=AMLjrlB3eTvDGOE9OJSdTkjKdHTodrIz0NklNGLYXN0skD0FncJejeE3xSH2nMWchK72EBAIB36ZAoN87RJuTOL1-qnNcSAb4AiOzq66xj7TRHkucLLSNTL94ayWhvZR-s7mJyRZPViCa9Mj3AH4rh4DzezmeNKafCh0eFFz~KG8N-NfXUZ29x6WATg5x3tLIFr5Fotd86FK-HqsQArvesnoINwFI8so0Zv0XRDzIYbApfiulOHLwFr7t9NoEMXcGlqC4EibLUI1strdd13BS4dY8pkBQLayuzpNynPekSBc8ftHXQMxklDtIYqVmCk0Hc360nED5~zCEZMlOqpX-w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=79)
+* Deep fish: An approach to fish species identification through deep learning techniques  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-97-3991-2_22)
+* Design and implementation of an IoT system for predicting aqua fisheries using arduino and KNN  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-68452-5_11)
+* Consumable Fish Classification Using k-Nearest Neighbor  [[Paper]](https://iopscience.iop.org/article/10.1088/1757-899X/821/1/012039/meta)
+* Applying a decision tree framework in support of an ecosystem approach to fisheries: IndiSeas indicators in the North Sea  [[Paper]](https://academic.oup.com/icesjms/article-abstract/75/3/1009/4718119)
+* Data-driven modelling for assessing trophic status in marine ecosystems using machine learning approaches  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0013935123025598)
+* Clustering spatial temporal distribution of fishing vessel based LON VMS data using K-means  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9331994)
+* Introduction to the k-means clustering algorithm based on the elbow method  [[Paper]](http://166.62.7.99/assets/default/article/2020/10/22/article_1603378206.pdf)
+* Clustering types of capture fisheries products using the k-means clustering algorithm  [[Paper]](https://jatit.org/volumes/Vol102No17/13Vol102No17.pdf)
+* Population morphometry of Conger myriaster (Anguilliformes: Congridae) along the coast of China: Implications for population structure and fishery management  [[Paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11240619/)
+* Case-based reasoning and dynamic choice modeling  [[Paper]](https://le.uwpress.org/content/99/1/103.abstract)
+* Expert system for diagnosing vaname shrimp disease using forward chaining and case-based reasoning methods  [[Paper]](https://journal.ibrahimy.ac.id/index.php/icorhestech/article/view/5698)
+
 
 ### CNNs
-- **Hernandez & Morales (2020)** “3D CNNs for Behavior Analysis.” [link](#)
+* Research on improved VGG-16 model based on transfer learning for acoustic image recognition of underwater search and rescue targets  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10679604/)
+* Classification of Marine Fish Based on Image Using Convolutional Neural Network Algorithm and VGG16  [[Paper]](https://journal.ittelkom-pwt.ac.id/index.php/inista/article/view/1466)
+* Comparative Analysis VGG16 Vs MobileNet Performance for Fish Identification  [[Paper]](https://journal.lembagakita.org/index.php/ijsecs/article/view/1763)
+* Fish Type and Disease Classification Using Deep Learning Model Based Customized CNN with Resnet 50 Technique  [[Paper]]()
+*   [[Paper]]()
 
 ### ViTs
-- **Zhao & Li (2022)** “ViTs in Aquatic Imaging.” [link](#)
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
 
 ### Foundation Models
 * Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset [[Paper]](https://arxiv.org/pdf/2406.06039?)
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
 
 ---
 
