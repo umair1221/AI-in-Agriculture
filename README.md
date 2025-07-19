@@ -244,6 +244,8 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 ### Machine Learning Tasks
 
+---
+
 #### Marine Life Classification
 
 * Machine learning applications for fisheries—at scales from genomics to ecosystems  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/23308249.2024.2423189)
@@ -255,10 +257,12 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 * Automatic labeling of fish species using deep learning across different classification strategies  [[Paper]](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1326452/full)
 * An optimized deep network-based fish tracking and classification from underwater images  [[Paper]](https://link.springer.com/article/10.1007/s11042-024-19417-z)
 * Recent advances of deep learning algorithms for aquacultural machine vision systems with emphasis on fish  [[Paper]](https://link.springer.com/article/10.1007/s10462-021-10102-3)
+* Diagnosis of fish diseases [[Book]](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429195259-3/diagnosis-fish-diseases-esteban-soto-shane-boylan-brittany-stevens-stephen-smith-roy-yanong-kuttichantran-subramaniam-thomas-waltzek)
 
 #### Marine Specie Localization
 
 * Automatic detection of fish and tracking of movement for ecology  [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.7656)
+* Underwater-Yolo: Underwater Object Detection Network with Dilated Deformable Convolutions and Dual-Branch Occlusion Attention Mechanism [[Paper]](https://www.mdpi.com/2077-1312/12/12/2291)
 * Rethinking general underwater object detection: Datasets, challenges, and solutions  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231222013169)
 * Underwater object detection in the era of artificial intelligence: Current, challenge, and future  [[Paper]](https://arxiv.org/abs/2410.05577)
 * Fish tracking, counting, and behaviour analysis in digital aquaculture: a comprehensive survey  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/raq.13001)
@@ -269,20 +273,54 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 * Fish face identification based on rotated object detection: dataset and exploration  [[Paper]](https://www.mdpi.com/2410-3888/7/5/219)
 * Fe-det: An effective traffic object detection framework for fish-eye cameras  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Luo_FE-Det_An_Effective_Traffic_Object_Detection_Framework_for_Fish-Eye_Cameras_CVPRW_2024_paper.html)
 * A novel automated approach for fish biomass estimation in turbid environments through deep learning, object detection, and regression  [[Paper]](https://www.sciencedirect.com/science/article/pii/S157495412400205X)
-*   [[Paper]]()
-*   [[Paper]]()
-
-*   [[Paper]]()
 
 
-#### 
+#### Fish Habitat Segmentation
+* Measurement of Fish Morphological Features through Image Processing and Deep Learning Techniques  [[Paper]](https://www.mdpi.com/2076-3417/11/10/4416)
+* Enhanced U-Net and PSO-optimized ANFIS for classifying fish diseases in underwater images  [[Paper]](https://link.springer.com/article/10.1007/s40815-024-01743-x)
+* RUSNet: Robust fish segmentation in underwater videos based on adaptive selection of optical flow  [[Paper]](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1471312/full)
+* Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention  [[Paper]](https://link.springer.com/article/10.1007/s10044-025-01460-7)
+* A review on image processing techniques for fisheries application  [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1529/5/052031/meta)
+* Automatic segmentation of fish using deep learning with application to fish size measurement  [[Paper]](https://academic.oup.com/icesjms/article/77/4/1354/5602457)
+* Edge-preserving texture-based semantic segmentation for ultrahigh resolution images in agricultural scene  [[Paper]](https://link.springer.com/article/10.1007/s12524-024-02021-x)
 
 
-### Challenges
-- **Chen & Zhao (2021)** “Underwater Image Quality.” [link](#)
+#### Marine Animal Tracking
+* DFTNet: Deep fish tracker with attention mechanism in unconstrained marine environments  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9527260/)
+* Simple online and realtime tracking with a deep association metric  [[Paper]](https://ieeexplore.ieee.org/abstract/document/8296962)
+* FishTrack: Multi-object tracking method for fish using spatiotemporal information fusion  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423026969)
+* Automatic detection of fish and tracking of movement for ecology  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.7656)
+* FishMOT: a simple and effective method for fish tracking based on IoU matching  [[Paper]](https://arxiv.org/abs/2309.02975)
+* Underwater SLAM Meets Deep Learning: Challenges, Multi-Sensor Integration, and Future Directions  [[Paper]](https://www.mdpi.com/1424-8220/25/11/3258)
 
+#### Anomaly Detection for Marine Health
+* Prediction of fish mortality based on a probabilistic anomaly detection approach for recirculating aquaculture system facilities  [[Paper]](https://pubs.aip.org/aip/rsi/article/92/2/025119/369074)
+* Smart anomaly detection for Slocum underwater gliders with a variational autoencoder with long short-term memory networks  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0141118721004880)
+* Anomalous behaviors detection for underwater fish using AI techniques  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9290081/)
+* Identification of suspicious behavior through anomalies in the tracking data of fishing vessels  [[Paper]](https://epjds.epj.org/articles/epjdata/abs/2024/01/13688_2024_Article_459/13688_2024_Article_459.html)
+
+
+---
+
+### Challenges in Aquatic Farming
+
+<p align="center">
+  <img src="./Images/Fisheries/Fisheries-Challenges.jpg" />
+<!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
+</p>
+
+---
 ### Key Fisheries Datasets
 - **Fish4Knowledge** (Sterling et al., 2014) – Annotated underwater videos. [link](#)
+
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
 
 ---
 
@@ -298,7 +336,7 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 - **Zhao & Li (2022)** “ViTs in Aquatic Imaging.” [link](#)
 
 ### Foundation Models
-- **Kim & Park (2023)** “Foundation Models for Underwater Vision.” [link](#)
+* Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset [[Paper]](https://arxiv.org/pdf/2406.06039?)
 
 ---
 
