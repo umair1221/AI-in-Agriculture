@@ -406,57 +406,65 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 ## 🐄 AI for Livestock
 
+---
+
 ### Machine Learning Tasks
 
 
 #### Livestock Health & Breed Classification
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Digital livestock farming  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2214180421000131)
+* Practices and applications of convolutional neural network-based computer vision systems in animal farming: A review  [[Paper]](https://www.mdpi.com/1424-8220/21/4/1492)
+* Combining expert knowledge and machine-learning to classify herd types in livestock systems  [[Paper]](https://www.nature.com/articles/s41598-021-82373-3)
+* Health Status Classification for Cows Using Machine Learning and Data Management on AWS Cloud  [[Paper]](https://www.mdpi.com/2076-2615/13/20/3254)
+* Application of AI/ML Approaches for Livestock Improvement and Management  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-2209-3_20)
+* Smart livestock management: integrating IoT for cattle health diagnosis and disease prediction through machine learning  [[Paper]](https://pdfs.semanticscholar.org/37ca/12d5ba47ddfe85e0abca5519fbf50d083d78.pdf)
 
 
 #### Livestock Localization
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Object detection and crowd analysis using deep learning techniques: Comprehensive review and future directions  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231224007033)
+* Enhancing livestock detection: An efficient model based on YOLOv8  [[Paper]](https://www.mdpi.com/2076-3417/14/11/4809)
+* Lameness detection system for dairy cows based on instance segmentation  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417424006419)
+* Livestock detection in aerial images using a fully convolutional network  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10897435)
+* Cattle body detection based on YOLOv5-EMA for precision livestock farming  [[Paper]](https://www.mdpi.com/2076-2615/13/22/3535)
+* LAD-RCNN: a powerful tool for livestock face detection and normalization  [[Paper]](https://www.mdpi.com/2076-2615/13/9/1446)
 
 #### Livestock Health Assessment Segmentation
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Automated cattle counting using Mask R-CNN in quadcopter vision system  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169919320149)
+* Cattle segmentation and contour extraction based on Mask R-CNN for precision livestock farming  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169919304077)
+* Interactive dairy goat image segmentation for precision livestock farming  [[Paper]](https://www.mdpi.com/2076-2615/13/20/3250)
+* Cattle target segmentation method in multi-scenes using improved DeepLabV3+ method  [[Paper]](https://www.mdpi.com/2076-2615/13/15/2521)
+* Efficient segment-anything model for automatic mask region extraction in livestock monitoring  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10375624/)
+* Automatic detection of mounting behavior in cattle using semantic segmentation and classification  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9391980/)
 
 
 #### Livestock Monitoring
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Livestock Monitoring with Transformer  [[Paper]](https://arxiv.org/abs/2111.00801)
+* SLEAP: A deep learning system for multi-animal pose tracking  [[Paper]](https://www.nature.com/articles/s41592-022-01426-1)
+* Cows' legs tracking and lameness detection in dairy cattle using video analysis and Siamese neural networks  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923000066)
+* Deep learning methods for tracking the locomotion of individual chickens  [[Paper]](https://www.mdpi.com/2076-2615/14/6/911)
+* Evaluation of an active LF tracking system and data processing methods for livestock precision farming in the poultry sector  [[Paper]](https://www.mdpi.com/1424-8220/22/2/659)
+* Animal tracking and identification in smart farms.  [[Thesis]](https://upcommons.upc.edu/handle/2117/413971)
+* Deep learning-based cow tail detection and tracking for precision livestock farming  [[Paper]](https://ieeexplore.ieee.org/abstract/document/9787071/)
+* Dairy cow mastitis detection by thermal infrared images based on CLE-UNet  [[Paper]](https://www.mdpi.com/2076-2615/13/13/2211)
+* OP mask R-CNN: An advanced mask R-CNN network for cattle individual recognition on large farms  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10284793)
+
 
 #### Livestock Behavioral Anomaly Detection
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Efficient herd–outlier detection in livestock monitoring system based on density–based spatial clustering  [[Paper]](https://ieeexplore.ieee.org/abstract/document/8895959/)
+* TimeTector: A twin-branch approach for unsupervised anomaly detection in livestock sensor noisy data (TT-TBAD)  [[Paper]](https://www.mdpi.com/1424-8220/24/8/2453)
+* Anomaly detection of operating equipment in livestock farms using deep learning techniques  [[Paper]](https://www.mdpi.com/2079-9292/10/16/1958)
+* Methods and challenges in computer vision-based livestock anomaly detection, a systematic review  [[Paper]](https://www.sciencedirect.com/science/article/pii/S1537511025000716?via%3Dihub)
+* Detection of anomalies in cow activity using wavelet transform based features  [[Paper]](https://arxiv.org/abs/2502.21051)
+* Gait Anomaly Detection in Dairy Cattle  [[Paper]](https://dl.acm.org/doi/10.1145/3152130.3152135)
 
 
 
 ---
 ### Challenges
-- **Miller & Adams (2022)** “Heterogeneous Data in Animal Farms.” [link](#)
-
+<p align="center">
+  <img src="./Images/Livestock/Livestock-Challenges.jpg" />
+<!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
+</p>
 
 ---
 ### Key Livestock Datasets
