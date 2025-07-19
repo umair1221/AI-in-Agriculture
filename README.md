@@ -132,6 +132,7 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 
+---
 ### Key Crop Datasets
 
 | Name | Source | Link |
@@ -272,6 +273,8 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 * Fish face identification based on rotated object detection: dataset and exploration  [[Paper]](https://www.mdpi.com/2410-3888/7/5/219)
 * Fe-det: An effective traffic object detection framework for fish-eye cameras  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Luo_FE-Det_An_Effective_Traffic_Object_Detection_Framework_for_Fish-Eye_Cameras_CVPRW_2024_paper.html)
 * A novel automated approach for fish biomass estimation in turbid environments through deep learning, object detection, and regression  [[Paper]](https://www.sciencedirect.com/science/article/pii/S157495412400205X)
+* Optimizing Real-Time Object Detection Neural Networks for Dead Fish Detection in Aquaculture Systems  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10810805/)
+
 
 
 #### Fish Habitat Segmentation
@@ -353,38 +356,109 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 * Population morphometry of Conger myriaster (Anguilliformes: Congridae) along the coast of China: Implications for population structure and fishery management  [[Paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC11240619/)
 * Case-based reasoning and dynamic choice modeling  [[Paper]](https://le.uwpress.org/content/99/1/103.abstract)
 * Expert system for diagnosing vaname shrimp disease using forward chaining and case-based reasoning methods  [[Paper]](https://journal.ibrahimy.ac.id/index.php/icorhestech/article/view/5698)
+* Simulation and forecasting of fishery weather based on statistical machine learning  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2214317323000537)
 
 
 ### CNNs
 * Research on improved VGG-16 model based on transfer learning for acoustic image recognition of underwater search and rescue targets  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10679604/)
 * Classification of Marine Fish Based on Image Using Convolutional Neural Network Algorithm and VGG16  [[Paper]](https://journal.ittelkom-pwt.ac.id/index.php/inista/article/view/1466)
 * Comparative Analysis VGG16 Vs MobileNet Performance for Fish Identification  [[Paper]](https://journal.lembagakita.org/index.php/ijsecs/article/view/1763)
-* Fish Type and Disease Classification Using Deep Learning Model Based Customized CNN with Resnet 50 Technique  [[Paper]]()
-*   [[Paper]]()
+* Fish Type and Disease Classification Using Deep Learning Model Based Customized CNN with Resnet 50 Technique  [[Paper]](https://jazindia.com/index.php/jaz/article/view/4194)
+* FishResNet: Automatic fish classification approach in underwater scenario  [[Paper]](https://link.springer.com/article/10.1007/s42979-021-00614-8)
+* Research on marine fish classification and recognition based on an optimized ResNet50 model  [[Paper]](https://academic.oup.com/mcf/article/16/6/e10317/7959883)
+* Improved Binary Classification of Underwater Images Using a Modified Resnet‐18 Model  [[Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5097940)
+* Optimzied resnet model of convolutional neural network for under sea water object detection and classification  [[Paper]](https://link.springer.com/article/10.1007/s11042-023-15041-5)
+* Coordinate-Aware Mask R-CNN with Group Normalization: A underwater marine animal instance segmentation framework  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231224002595)
+* Fish segmentation in sonar images by mask R-CNN on feature maps of conditional random fields  [[Paper]](https://www.mdpi.com/1424-8220/21/22/7625)
+* Advancing underwater trash detection: Harnessing Mask R-CNN, YOLOv8, EfficientDet-D0 and YOLACT  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10625362/)
+* Accurate detection of underwater objects using EfficientNet Algorithm  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10602263/)
+* Fine-grained classification network for fish based on the attention mechanism and EfficientNet  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584376.3584556)
+* YOLOv7 and EfficientNet Based Program For Detecting and Classifying Fish in Aquaculture Environment  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10455919/)
+* Edge-AI for buoy detection and mussel farming: a comparative study of YOLO frameworks  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10704814)
+* CEH-YOLO: A composite enhanced YOLO-based model for underwater object detection  [[Paper]](https://www.sciencedirect.com/science/article/pii/S1574954124003005)
+* Temperate fish detection and classification: a deep learning based approach  [[Paper]](https://link.springer.com/article/10.1007/s10489-020-02154-9)
+* AquaYOLO: Advanced YOLO-based fish detection for optimized aquaculture pond monitoring  [[Paper]](https://www.nature.com/articles/s41598-025-89611-y)
+* Fisheye freshness detection using common deep learning algorithms and machine learning methods with a developed mobile application  [[Paper]](https://link.springer.com/article/10.1007/s00217-024-04493-0)
+
 
 ### ViTs
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Fish-TViT: A novel fish species classification method in multi water areas based on transfer learning and vision transformer  [[Paper]](https://www.cell.com/heliyon/fulltext/S2405-8440(23)03968-3)
+* TFMFT: Transformer-based multiple fish tracking  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0168169923009882)
+* FMRFT: Fusion mamba and DETR for query time sequence intersection fish tracking  [[Paper]](https://arxiv.org/abs/2409.01148)
+* DyFish-DETR: underwater fish image recognition based on detection transformer  [[Paper]](https://www.mdpi.com/2077-1312/12/6/864)
+* CFFI-Vit: enhanced vision transformer for the accurate classification of fish feeding intensity in aquaculture  [[Paper]](https://www.mdpi.com/2077-1312/12/7/1132)
+* Fine-Grained Fish Classification from small to large datasets with Vision Transformers  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10636215/)
+* An efficient approach to detect and segment underwater images using Swin Transformer  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2590123024007151)
+* Benthic Mapping of Coral Reef Areas at Varied Water Depths Using Integrated Active and Passive Remote Sensing Data and Novel Visual Transformer Models  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10695135/)
+* FishAI: Automated hierarchical marine fish image classification with vision transformer  [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/eng2.12992)
+* A fish counting model based on pyramid vision transformer with multi-scale feature enhancement  [[Paper]](https://www.sciencedirect.com/science/article/pii/S1574954125000342)
+
 
 ### Foundation Models
 * Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset [[Paper]](https://arxiv.org/pdf/2406.06039?)
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
-*   [[Paper]]()
+* Marinegpt: Unlocking secrets of ocean to the public  [[Paper]](https://arxiv.org/abs/2310.13596)
+* Aquaticclip: A vision-language foundation model for underwater scene analysis  [[Paper]](https://arxiv.org/abs/2502.01785)
+* AgriCLIP: Adapting CLIP for agriculture and livestock via domain-specialized cross-model alignment  [[Paper]](https://arxiv.org/abs/2410.01407)
+* Robust fish recognition using foundation models toward automatic fish resource management  [[Paper]](https://www.mdpi.com/2077-1312/12/3/488)
+* Marineinst: A foundation model for marine image analysis with instance visual description  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_14)
 
 ---
 
 ## 🐄 AI for Livestock
 
 ### Machine Learning Tasks
-- **Elahi et al. (2021)** “Sensor-based Cattle Health Monitoring.” [link](#)
 
+
+#### Livestock Health & Breed Classification
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+
+
+#### Livestock Localization
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+
+#### Livestock Health Assessment Segmentation
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+
+
+#### Livestock Monitoring
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+
+#### Livestock Behavioral Anomaly Detection
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+*   [[Paper]]()
+
+
+
+---
 ### Challenges
 - **Miller & Adams (2022)** “Heterogeneous Data in Animal Farms.” [link](#)
 
+
+---
 ### Key Livestock Datasets
 - **FarmTrack** (Zhou et al., 2020) – Sensor & video recordings. [link](#)
 
