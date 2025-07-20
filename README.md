@@ -10,20 +10,28 @@
 #### [Umair Nawaz](https://scholar.google.com/citations?user=w7N4wSYAAAAJ&hl=en), [Muhammad Zaigham Zaheer](https://scholar.google.com/citations?user=nFxWrXEAAAAJ&hl=en), [Fahad Shahbaz Khan](https://sites.google.com/view/fahadkhans/home), [Hisham Cholakkal](https://scholar.google.com/citations?user=bZ3YBRcAAAAJ&hl=en), [Salman Khan](https://salman-h-khan.github.io/), [Rao M. Anwer](https://scholar.google.fi/citations?user=_KlvMVoAAAAJ&hl=en)
 
 
-## 1 What is this repository?
-This repository complements our survey paper, **“AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock”**, which is a comprehensive review of machine- and deep-learning techniques for crops, livestock and fisheries.
 
-It provides readers with:
-- a curated index of **180 + referenced papers** (CSV & BibTeX);
-- interactive notebooks reproducing **all tables and figures** from the manuscript;
+<p align="center">
+  <img src="./Images/Agri-Survey-Dataset.png" />
+<!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
+</p>
+
+
+## 1. What is this repository?
+This repository complements our survey paper, **“AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock”**, which is a comprehensive review of machine and deep-learning techniques for (A) crops, (B) fisheries, and (C) livestock domain. It provides readers with:
+- a curated index of **180+ referenced papers**;
 - high-resolution artwork (taxonomy diagrams, dataset examples, etc.);
-- lightweight helper scripts for updating the bibliography and statistics;
 - guidelines for contributing new references once the survey is published.  
 
+<p align="center">
+  <img src="./Images/Survey-Sections.jpg" />
+<!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
+</p>
 
-The goal is to make it effortless for researchers, practitioners and students to navigate the literature, replicate our analyses and extend the survey as the field evolves.
 
-## 2 Paper at a glance
+The goal is to make it effortless for researchers, practitioners and students to navigate the literature, replicate our analyses and extend the survey as the field evolves. The Pie chart represents the distribution of papers discussed in this survey under four methodological categories (CM: Conventional Methods, CNNs: Convolutional Neural Networks, ViTs: Vision Transformers, FMs: Foundational Models). Each domain’s angular span is proportional to its total paper count, and each inner slice’s radial extent encodes the method’s share within that domain in this survey.
+
+## 2. Paper at a glance
 
 | Highlight | Details |
 |-----------|---------|
@@ -40,7 +48,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   <img src="./Images/Agriculture-Taxonomy-Final.png" />
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
-A taxonomy of AI applications in *agriculture* divided into three domains: *crops*, *livestock*, and *fisheries*. We highlight various ML tasks for each domain along with the domain-specific challenges. Furthermore, a detailed overview of common datasets in each domain is specified, along with different approaches used, ranging from conventional ML methods to foundation models.
+
+A taxonomy of AI applications in *agriculture* divided into three domains: crops, livestock, and fisheries. We highlight various ML tasks for each domain along with the domain-specific challenges. Furthermore, a detailed overview of common datasets in each domain is specified, along with different approaches used, ranging from conventional ML methods to foundation models.
+
 ---
 
 ## 📌 Contents  
@@ -62,6 +72,7 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 ---
 # 📖 Papers  
 
+---
 ## 🔍 Survey  
 
 
@@ -83,8 +94,11 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 | A systematic literature review on the use of machine learning in precision livestock farming       | 20 Oct 2020      | [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0168169920317099) |
 | A Systematic Literature Review on the Use of Deep Learning in Precision Livestock Detection and Localization  | 20 Oct 2020      | [IEEE](https://ieeexplore.ieee.org/document/9844698)                                 |
 
+---
 
 ## 🌾 AI for Crops
+
+---
 
 ### Machine Learning Tasks
 
@@ -242,6 +256,8 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 ---
 
 ## 🎣 AI for Fisheries
+
+---
 
 ### Machine Learning Tasks
 
@@ -502,6 +518,7 @@ A taxonomy of AI applications in *agriculture* divided into three domains: *crop
 
 ## ⚙️ ML Techniques in Livestock
 
+---
 ### Conventional Approaches
 * Classification of animals using MobileNet with SVM classifier [[Paper]](https://link.springer.com/chapter/10.1007/978-981-19-3015-7_25)
 * Animal disease diagnoses expert system based on SVM [[Paper]](https://link.springer.com/chapter/10.1007/978-3-642-12220-0_78)
@@ -615,10 +632,10 @@ Across crops, fisheries and livestock domains, there are common hurdles and emer
 
 ## 🚀 Future Research Directions
 
-1. **Unifying Multi-modal Foundation Models**  
+<!-- 1. **Unifying Multi-modal Foundation Models**  
 2. **Continual and Federated Adaptation**  
 3. **Edge-Efficient AI for Real-time Decision Support**  
-4. **Agentic AI for Autonomous Farming**  
+4. **Agentic AI for Autonomous Farming**   -->
 
 <p align="center">
   <img src="./Images/Future Directions.jpg" />
@@ -630,8 +647,7 @@ Across crops, fisheries and livestock domains, there are common hurdles and emer
 ## 💡 Any other Suggestions
 
 - **Lectures & Workshops**  
-  - “AgriAI 2024 Workshop on Farm Robotics”  
-  - “Precision Farming Summer School 2023”
+  - TBA accordingly
 
 ---
 
