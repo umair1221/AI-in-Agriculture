@@ -1,4 +1,4 @@
-# AI in Agriculture — Survey Companion Repository
+# AI in Agriculture — Survey
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](TBA)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
