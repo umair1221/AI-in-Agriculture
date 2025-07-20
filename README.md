@@ -16,7 +16,7 @@
 <!--   <img src="./Images/methods.jpg" width="45%" height="50%" /> -->
 </p>
 
-
+---
 ## 1. What is this repository?
 This repository complements our survey paper, **“AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock”**, which is a comprehensive review of machine and deep-learning techniques for (A) crops, (B) fisheries, and (C) livestock domain. It provides readers with:
 - a curated index of **180+ referenced papers**;
