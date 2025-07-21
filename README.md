@@ -1,4 +1,4 @@
-# AI in Agriculture — Survey
+# AI in Agriculture — Survey of Deep Learning Techniques for Crops, Fisheries and Livestock
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![arXiv](https://img.shields.io/badge/arXiv-2502.21321-b31b1b.svg)](TBA)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
@@ -19,7 +19,7 @@
 ---
 ## 1. What is this repository?
 This repository complements our survey paper, **“AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock”**, which is a comprehensive review of machine and deep-learning techniques for (A) crops, (B) fisheries, and (C) livestock domain. It provides readers with:
-- a curated index of **180+ referenced papers**;
+- a curated index of **200+ referenced papers**;
 - high-resolution artwork (taxonomy diagrams, dataset examples, etc.);
 - guidelines for contributing new references once the survey is published.  
 
@@ -38,7 +38,7 @@ The goal is to make it effortless for researchers, practitioners and students to
 | **Domains covered** | Crops, Livestock, Fisheries |
 | **Techniques reviewed** | Conventional ML, CNNs, Vision Transformers, Vision-Language & Foundation Models |
 | **Key themes** | Datasets & Benchmarks · Task Taxonomy · Implementation Challenges · Future Directions |
-| **Total Papers Covered** | 180+ peer-reviewed papers and preprints |
+| **Total Papers Covered** | 200+ peer-reviewed papers and preprints |
 | **Journal / venue** | *Pre-print*, under submission |
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
@@ -57,17 +57,17 @@ A taxonomy of AI applications in *agriculture* divided into three domains: crops
 
 | Section | Subsection |  
 | --------------------- | ----------- |  
-| [📖 Introduction](#papers) | [Motivation & Scope](#survey), [Contributions](#theory), [Organization](#explainability) |  
-| [🌾 AI for Crops](#Crops) | Machine Learning Tasks, Challenges, Key Crop Datasets  |  
-| [⚙️ ML Techniques in Crops](#reward-learning) | [Conventional Approaches](#human-feedback), [CNNs](#preference-based-rl), [ViTs](#intrinsic-motivation), [Foundation Models]() |  
-| [🐟 AI for Fisheries](#Fisheries) | Machine Learning Tasks, Challenges, Key Crop Datasets  |  
-| [🎣 ML Techniques in Fisheries](#reward-learning) | [Conventional Approaches](#human-feedback), [CNNs](#preference-based-rl), [ViTs](#intrinsic-motivation), [Foundation Models]() |  
-| [🐄 AI for Livestock](#Livestock) | Machine Learning Tasks, Challenges, Key Crop Datasets  |  
-| [🛠️ ML Techniques in Livestock](#reward-learning) | [Conventional Approaches](#human-feedback), [CNNs](#preference-based-rl), [ViTs](#intrinsic-motivation), [Foundation Models]() |  
-| [🌐 Cross-cutting Challenges & Opportunities](#Livestock) | Data Variability & Standardization, Model Transferability & Generalization, Resource Constraints & Edge Deployment, Explainability & Trustworthiness |  
-| [🚀 Future Research Directions](#future-directions) | [Unifying Multi-modal Foundation Models](#human-feedback), [Continual and Federated Adaptation](#preference-based-rl), [Edge-Efficient AI for Real-time Decision Support](#intrinsic-motivation), [Agentic AI for Autonomous Farming]() |  
-| [💡 Any other Suggestions](#tutorials-and-courses) | [Lectures](#lectures), [Workshops](#workshops) |  
-| [🔗 Other Resources](#other-resources) | Additional Research & Readings |  
+| [📖 Introduction]() | [Motivation & Scope](), [Contributions](), [Organization]() |  
+| [🌾 AI for Crops]() | Machine Learning Tasks, Challenges, Key Crop Datasets  |  
+| [⚙️ ML Techniques in Crops]() | Conventional Approaches, [CNNs](), [ViTs](), [Foundation Models]() |  
+| [🐟 AI for Fisheries]() | Machine Learning Tasks, Challenges, Key Crop Datasets  |  
+| [🎣 ML Techniques in Fisheries]() | [Conventional Approaches](), [CNNs](), [ViTs](), [Foundation Models]() |  
+| [🐄 AI for Livestock]() | Machine Learning Tasks, Challenges, Key Crop Datasets  |  
+| [🛠️ ML Techniques in Livestock]() | [Conventional Approaches](), [CNNs](), [ViTs](), [Foundation Models]() |  
+| [🌐 Cross-cutting Challenges & Opportunities]() | Data Variability & Standardization, Model Transferability & Generalization, Resource Constraints & Edge Deployment, Explainability & Trustworthiness |  
+| [🚀 Future Research Directions]() | [Unifying Multi-modal Foundation Models](), [Continual and Federated Adaptation](), [Edge-Efficient AI for Real-time Decision Support](), [Agentic AI for Autonomous Farming]() |  
+| [💡 Any other Suggestions]() | [Lectures](), [Workshops]() |  
+| [🔗 Other Resources]() | Additional Research & Readings |  
 
 ---
 # 📖 Papers  
