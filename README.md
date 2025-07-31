@@ -670,7 +670,15 @@ Contributions are welcome! If you have relevant papers, code, or insights, feel 
 If you find our work useful or use it in your research, please consider citing:
 
 ```bibtex
-TBA
+@article{nawaz2025aiagriculturesurveydeep,
+      title={AI in Agriculture: A Survey of Deep Learning Techniques for Crops, Fisheries and Livestock}, 
+      author={Umair Nawaz and Muhammad Zaigham Zaheer and Fahad Shahbaz Khan and Hisham Cholakkal and Salman Khan and Rao Muhammad Anwer},
+      year={2025},
+      eprint={2507.22101},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.22101}, 
+}
 ```
 
 ## License :scroll:
